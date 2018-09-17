@@ -1,0 +1,32 @@
+_repo: Round-About-the-North-Pole_52462
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Whymper, Edward
+    birthdate: 1840
+    deathdate: 1911
+    gutenberg_agent_id: '39217'
+    url: http://www.gutenberg.org/2009/agents/39217
+creator:
+  author:
+    agent_name: Gordon, W. J. (William John)
+    alias: Gordon, William John
+    gutenberg_agent_id: '46867'
+    url: http://www.gutenberg.org/2009/agents/46867
+description: ''
+gutenberg_issued: '2016-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52462'
+  lccn: '42003244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Arctic regions'
+- !lcsh 'North Pole'
+- GITenberg
+title: Round About the North Pole
+url: http://www.gutenberg.org/ebooks/52462
